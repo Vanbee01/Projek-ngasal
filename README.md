@@ -1,2 +1,1 @@
-# Azmi
-For you
+this is website for oskafour organisation
